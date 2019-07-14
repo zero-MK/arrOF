@@ -1,0 +1,4 @@
+break main
+break /mnt/hgfs/Volumes/CTF/pwn/temp/arr.c:11
+break /mnt/hgfs/Volumes/CTF/pwn/temp/arr.c:15
+
